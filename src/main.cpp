@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <packet.h>
 
-#define SSID "Voyager"
-#define PASSWORD "7neHHvcuz3eMSYUE"
+#define SSID "MineCraftS"
+#define PASSWORD "12345678"
 #define PORT 25565
 
 WiFiServer tcpServer(PORT);
